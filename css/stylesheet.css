@@ -6,6 +6,6 @@
     -o-background-size: cover;
  }
  
- .body {
- 	background: transparent;
+ body {
+ 	background-color: transparent;
  }
