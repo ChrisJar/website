@@ -1,8 +1,7 @@
-body {
-	background:url('http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/3/18/1426679158003/5976f2f5-af2f-46c3-8e4f-6c50a4a1e488-2060x1236.jpeg')no-repeat;
-	background-size:100% 100%;
-	height: 140px;
-	display:block;
-	padding:0 !important;
-	margin:0;
+html { 
+	background: url(http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2015/3/18/1426679158003/5976f2f5-af2f-46c3-8e4f-6c50a4a1e488-2060x1236.jpeg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
