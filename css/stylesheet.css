@@ -9,8 +9,9 @@
  
  body {
 	font-family:"futura-pt", futura, sans-serif;
-	font-weight: bold italic;
+	font-weight: bold;
 	text-align: center;
+	font-style: italic;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: #ffffff;
